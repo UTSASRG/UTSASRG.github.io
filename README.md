@@ -1,3 +1,12 @@
-# UMass MASS Lab (Massachusetts' Software System Research Lab)
+# MASS: Massachusetts' Software System Research Lab
 
-This is just a test. 
+Group Member:
+Tongping Liu (PI)
+
+Research Students:
+
+Jin Zhou
+
+Xin Zhao
+
+Hanmei Yang
