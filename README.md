@@ -1,4 +1,4 @@
-# MASS: Massachusetts' Software System Research Lab
+# MASS: MAssachusetts' Software System Research Lab
 
 Group Member:
 Tongping Liu (PI)
