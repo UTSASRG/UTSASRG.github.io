@@ -18,3 +18,6 @@ Master Students:
 Steven Tang (2020.9---)
 Mingchan Xiang (2020.9--)
 
+
+
+Initializing group website based on [allanlab's template ](http://www.allanlab.org/)
