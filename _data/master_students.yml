@@ -1,0 +1,22 @@
+#- name:
+#  photo: JinZhou.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Jiaxun (Steven) Tang
+  photo: JiaxunTang.jpg
+  info: 2020.9---
+  email: jtang@umass.edu
+  number_educ: 0
+
+
+- name: Mingcan Xang
+  photo: MingcanXiang.jpg
+  info: 2020.9---
+  email: email@changeme.com
+  number_educ: 0

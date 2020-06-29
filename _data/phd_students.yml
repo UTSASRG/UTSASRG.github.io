@@ -1,0 +1,34 @@
+#- name:
+#  photo: JinZhou.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Jin Zhou
+  photo: JinZhou.jpg
+  info: 2020.1---
+  email: email@changeme.com
+  number_educ: 0
+
+
+- name: Xin Zhao
+  photo: XinZhao.jpg
+  info: 2020.1---
+  email: email@changeme.com
+  number_educ: 0
+
+- name: Hanmei Yang
+  photo: HanmeiYang.jpg
+  info: 2020.9---
+  email: email@changeme.com
+  number_educ: 0
+
+- name: Zezeng Lu
+  photo: ZeZengLu.jpg
+  info: 2020.9---
+  email: email@changeme.com
+  number_educ: 0
