@@ -7,6 +7,8 @@
 
 # Site settings
 title: Mass Lab
+department: Electrical and Computer Engineering Department
+school: UMASS Amherst
 email: tongping@umass.edu
 description: > # this means to ignore newlines until "baseurl:"
   MAssachusetts' Software System Research Lab
