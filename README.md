@@ -1,6 +1,6 @@
 # MASS: MAssachusetts' Software System Research Lab
 
-Visit our site at: [UTSASRG.github.io](UTSASRG.github.io)
+Visit our site at: [UTSASRG.github.io](https://UTSASRG.github.io)
 
 Site migration complete, contribution is welcomed!
 
