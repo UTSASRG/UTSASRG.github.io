@@ -27,7 +27,6 @@ permalink: /pictures/
 {% assign fileName = pic.image | replace: fileExt,"" %}
 {% capture img %}/images/picpic/Gallery/{{ fileName}}{{fileExt}}{% endcapture %}
 {% capture scaledImg %}/images/picpic/Gallery/{{ fileName}}_scaled{{fileExt}}{% endcapture %}
-<!--{% capture haveScaledImg %}{% file_exists {{ scaledImg }} %}{% endcapture %}-->
 {% assign cacheArr = true %}
 
 
