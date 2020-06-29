@@ -8,7 +8,7 @@ permalink: /pictures/
 # Pictures
 
 #### Gallery
-(Right-click *'view image'* to see a larger image.)
+(Click to see a larger image)
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.gallery %}
@@ -20,8 +20,27 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+
+
+{% assign cacheArr = pic.image | split:"." %}
+{% assign fileExt = "."| append: cacheArr[-1]%}
+{% assign fileName = pic.image | replace: fileExt,"" %}
+{% capture img %}/images/picpic/Gallery/{{ fileName}}{{fileExt}}{% endcapture %}
+{% capture scaledImg %}/images/picpic/Gallery/{{ fileName}}_scaled{{fileExt}}{% endcapture %}
+{% capture haveScaledImg %}{% file_exists {{ scaledImg }} %}{% endcapture %}
+
+{% if haveScaledImg %}
+
+<a href="{{img}}" target="_blank">
+    <img src="{{ scaledImg }}" class="img-responsive" width="95%" style="float: left" />
+</a>
+{%else%}
+<a href="{{img}}" target="_blank">
+    <img src="{{ img }}" class="img-responsive" width="95%" style="float: left" />
+</a>
+{% endif %}
 </div>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
