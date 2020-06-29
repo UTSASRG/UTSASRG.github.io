@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "MASS Lab official website"
 sitemap: false
 permalink: /
 ---

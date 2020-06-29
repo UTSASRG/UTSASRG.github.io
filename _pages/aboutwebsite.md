@@ -1,7 +1,7 @@
 ---
-title: "About the website"
+title: "About"
 layout: textlay
-excerpt: "About the website."
+excerpt: "About this website."
 sitemap: false
 permalink: /aboutwebsite.html
 ---
