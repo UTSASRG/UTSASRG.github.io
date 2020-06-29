@@ -20,6 +20,15 @@ Edit ./_data/news.yml , if showonhomepage==1 then this news item will appear on 
 
 Please put image resources into corresponding folders under /image and then write correct url in the source code
 
+**Please compress images to boost site speed**
+
+### Gallery
+
+Github pages cannot detect whether a file exists or not. Always put a scaled image along with the original image.
+
+eg: You should put a.jpg and a_scaled.jpg simultaneously in gallery folder.
+
+
 ### General Page
 
 Use markdown to fill contents
