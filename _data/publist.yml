@@ -1,6 +1,6 @@
 - title: "Significant paper 1 (Please Change)"
   image: TBG_ARPES.png
-  description: description  (Please Change) <br/> <br/> <br/>
+  description: description  (Please Change)
   authors: Foo, Bar  (Please Change)
   link:
     url: https://arxiv.org/abs/2002.02289
@@ -10,7 +10,7 @@
 
 - title: "Paper 2 (Please Change)"
   image: TBG_ARPES.png
-  description: description  (Please Change) <br/> <br/> <br/>
+  description: description  (Please Change)
   authors: Foo, Bar  (Please Change)
   link:
     url: https://arxiv.org/abs/2002.02289

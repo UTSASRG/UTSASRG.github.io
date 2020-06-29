@@ -55,7 +55,7 @@ Group description here (PLEASE CHANGE)
 
 
 
-Note: The followings are logo zone
+Note: The following is a logo zone
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UMASS.png" style="width: 100px">

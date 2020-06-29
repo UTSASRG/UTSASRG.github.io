@@ -22,8 +22,7 @@ permalink: /publications/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-<div class="col-sm-6 clearfix">
- <div class="well">
+<div class="col-sm-6 clearfix well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
@@ -31,7 +30,6 @@ permalink: /publications/
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
- </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
