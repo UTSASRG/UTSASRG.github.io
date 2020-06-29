@@ -2,25 +2,29 @@
 
 Visit our site at: [UTSASRG.github.io](UTSASRG.github.io)
 
-Group Member:
-Tongping Liu (PI)
+Site migration complete, contribution is welcomed!
 
-Ph.D. Students:
+## Contribution Guide
 
-Jin Zhou (2020.1---)
+> Note: this site is built with Jeykll. If you haven't use Jeykll, it might be a good idea to see [this article](https://jekyllrb.com/docs/step-by-step/01-setup/) first 
+> 
+### Publications
 
-Xin Zhao (2020.1---)
+Edit ./_data/publist.yml , if highlight==1 then this paper will be listed in front of publication page
 
-Hanmei Yang (2020.9---)
-
-Zezeng Lu ((2020.9---)
-
-Master Students:
-
-Steven Tang (2020.9---)
-
-Mingchan Xiang (2020.9--)
+### News
+Edit ./_data/news.yml , if showonhomepage==1 then this news item will appear on homepage slides
 
 
+### Image Resource
 
-Initializing group website based on [allanlab's template ](http://www.allanlab.org/)
+Please put image resources into corresponding folders under /image and then write correct url in the source code
+
+### General Page
+
+Use markdown to fill contents
+
+### General Data
+
+Edit corresponding .yml file under _data folder
+
