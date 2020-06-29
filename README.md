@@ -10,10 +10,10 @@ Site migration complete, contribution is welcomed!
 > 
 ### Publications
 
-Edit ./_data/publist.yml , if highlight==1 then this paper will be listed in front of publication page
+Edit ./_data/publist.yml , if highlight==1 then this paper will be listed in front of the publication page
 
 ### News
-Edit ./_data/news.yml , if showonhomepage==1 then this news item will appear on homepage slides
+Edit ./_data/news.yml , if showonhomepage==1 then this news item will appear on the homepage image slides
 
 
 ### Image Resource
