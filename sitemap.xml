@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://utsasrg.github.io/news/paper13/</loc>
+    <lastmod>2021-03-05T23:07:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://utsasrg.github.io/</loc>
-    <lastmod>2021-01-05T23:08:49+08:00</lastmod>
+    <lastmod>2021-03-05T23:07:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utsasrg.github.io/news/</loc>
+    <lastmod>2021-03-05T23:07:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utsasrg.github.io/publications/numaperf/</loc>
+    <lastmod>2021-03-05T22:09:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utsasrg.github.io/publications/</loc>
+    <lastmod>2021-03-05T22:09:14+08:00</lastmod>
   </url>
   
   <url>
@@ -33,17 +53,17 @@
   </url>
   
   <url>
+    <loc>https://utsasrg.github.io/people/thanathorn/</loc>
+    <lastmod>2021-01-05T23:08:49+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://utsasrg.github.io/people/xiangmingcan/</loc>
     <lastmod>2021-01-05T23:08:49+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://utsasrg.github.io/people/yanghanmei/</loc>
-    <lastmod>2021-01-05T23:08:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://utsasrg.github.io/people/zhanghuaien/</loc>
     <lastmod>2021-01-05T23:08:49+08:00</lastmod>
   </url>
   
@@ -73,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://utsasrg.github.io/news/</loc>
-    <lastmod>2020-12-05T23:07:12+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://utsasrg.github.io/news/new-people3/</loc>
     <lastmod>2020-08-30T23:07:12+08:00</lastmod>
   </url>
@@ -99,11 +114,6 @@
   
   <url>
     <loc>https://utsasrg.github.io/publications/prober/</loc>
-    <lastmod>2020-01-05T22:09:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://utsasrg.github.io/publications/</loc>
     <lastmod>2020-01-05T22:09:14+08:00</lastmod>
   </url>
   
